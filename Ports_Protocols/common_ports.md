@@ -50,9 +50,3 @@ Understanding common ports is essential for networking, penetration testing, and
 - 🔐 Secure or detect exposed services  
 - 🧪 Important for penetration testing and CTFs
 
----
-
-## 📁 Save this file in your repo:
-`cyber-notes/notes/common_ports.md`
-
-Commit message:  
